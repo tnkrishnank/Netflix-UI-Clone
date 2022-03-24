@@ -3,5 +3,5 @@ function home() {
 }
 
 function browse() {
-    window.location.href = "../../templates/browse.html";
+    window.location.href = "../templates/browse.html";
 }
